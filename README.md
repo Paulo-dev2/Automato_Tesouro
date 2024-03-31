@@ -19,6 +19,15 @@ Este autômato possui ao todo 22 estados, também foi implementada um método de
 com tamanho minimos começando com número baixo até uma sequência alta, porém levaria uma quantidade de tempo e de processamento alto, pois possui outras combinaçãoes para chegar até a ilha do tesouro,
 onde a palavra mais rápida a encontrar o tesouro é: SSSLLOONL, mas também pode encontrar outras opções também.
 
+# Método de Força Bruta
+  Além disso, foi implementado um método de força bruta para encontrar a ilha do tesouro com uma sequência específica de movimentos. Embora este método possa ser útil para encontrar a solução mais rapidamente em alguns casos, sua eficiência depende do tamanho e da complexidade da sequência.
+
+# Alunos
+  - André Soares
+  - Andrei Magalhães
+  - Artur Dantas
+  - Paulo Abdiel Sardinha de Sousa Santos
+
 Imagem do autômato:
 
 ![MAPA jff](https://github.com/Paulo-dev2/Automato_Tesouro/assets/65676235/72fd24bb-acaa-4094-add2-a3d785046601)
